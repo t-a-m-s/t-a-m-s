@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @t-a-m-s
-- 👀 I’m interested in python, python3.x
-- 🌱 I’m currently learning python programming, physics
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in python, python3.x, C++, robotics
+- 🌱 I’m currently learning python programming, C++ programming, physics
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
 <!---
