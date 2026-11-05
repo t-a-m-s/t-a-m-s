@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @t-a-m-s
-- 👀 I’m interested in python, python3.x, C++, robotics
+- 👀 I’m interested in python, python3.x, C++, cern.ROOT, quantum computing, computational physics, robotics
 - 🌱 I’m currently learning python programming, C++ programming, physics
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
